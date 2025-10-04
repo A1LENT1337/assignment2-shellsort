@@ -1,0 +1,10 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.iml
+target/
+.idea/
+*.DS_Store
